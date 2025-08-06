@@ -25,7 +25,7 @@
 
 ### :calendar: A função **mostrar_validade** mostrar quando o produto vai vencer.<br>
 
-### A função **vendas** mostrar o quanto vendeu.<br>
+### :chart_with_upwards_trend: A função **vendas** mostrar o quanto vendeu.<br>
 
 ### :chart_with_upwards_trend: A função **metas_vendas** define a condição de se bateu a meta ou não.<br>
 
