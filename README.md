@@ -47,7 +47,8 @@ produto1.metas_vendas()
 produto1.rentabilidade()        
 produto1.registro_produto()    
 
-´´´ <br>
+´´´ 
+<br>
 
 ## OBSERVAÇÃO:<br>
 ### Esse código server como base ao entendimento sobre estrutura de dados, mas não se baseando totalmente na Programação Orientado a Objeto, mais sobre OO (Orientado a Objeto), já que requer um nivel atenção profunda do conteúdo e mais tempo para o aprendizado para o desenrolar de códigos mais complexos.
