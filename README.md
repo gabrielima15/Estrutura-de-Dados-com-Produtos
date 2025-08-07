@@ -37,7 +37,7 @@
 
 ### O usuário informar todas as informações do produto para inseri-ló como nome, preço, quantidade, validade, e metas que deseja inserir sobre o item do produto.<br>
 
-´´´
+```
 produto1 = cadastro("Nome do Produto",preço,estoque,"Data-de-validade",Rentabilidade) 
 produto1.mostrar_infor()       
 produto1.valor_total_estoque() 
@@ -47,7 +47,7 @@ produto1.metas_vendas()
 produto1.rentabilidade()        
 produto1.registro_produto()    
 
-´´´ 
+``` 
 <br>
 
 ## OBSERVAÇÃO:<br>
